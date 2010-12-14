@@ -1,1 +1,2 @@
 supertab.vba: call delete('/Users/nederhrj/.vim/doc/supertab.txt')|call delete('/Users/nederhrj/.vim/plugin/supertab.vim')
+twitvim-0.6.0.vba: call delete('/Users/nederhrj/.vim/plugin/twitvim.vim')|call delete('/Users/nederhrj/.vim/doc/twitvim.txt')
